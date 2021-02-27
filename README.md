@@ -1,6 +1,6 @@
 # money-transfer
 
-# Java 8 JDK/JRE required
+# Java 8 or later JDK/JRE required
 
 How to start the money-transfer application
 ---
